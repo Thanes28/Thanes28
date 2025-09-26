@@ -58,7 +58,7 @@ Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a 
 ### 📌 Featured Projects
 <!-- Replace repo links with your actual repos -->
 <p align="left">
-  <a href="https://github.com/Thaneswaren/restaurant-system-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=restaurant-system-py&theme=default" /></a>
+  <a href="https://github.com/Thanes28/Email_Server_Linux.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=restaurant-system-py&theme=default" /></a>
   <a href="https://github.com/Thaneswaren/java-revenue-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=java-revenue-dashboard&theme=default" /></a>
 </p>
 

@@ -1,13 +1,100 @@
-Hi there 👋 I’m Thaneswaren, a passionate learner and aspiring Cybersecurity Specialist & Software Developer. I am currently pursuing my Bachelor’s Degree in Cybersecurity at Asia Pacific University (APU), after successfully completing my Diploma in Software Engineering. My academic journey has given me a strong foundation in both software development and cybersecurity, which I aim to combine to build secure and efficient systems.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Thaneswaren;Cybersecurity+%26+Software+Development+Enthusiast" alt="Typing SVG" />
+</p>
 
-💻 Technical Skills
-I have hands-on experience with several programming languages and tools, including Python, Java, C++, R Programming, HTML, CSS, and MySQL. I have applied these skills in coursework and personal projects such as login systems, database-driven applications, and analytical models. I also enjoy exploring system design, SQL queries, and testing methodologies to ensure performance and reliability.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440" alt="coding animation">
+</p>
 
-🔒 Cybersecurity Passion
-What excites me the most is understanding how systems can be both built and broken — and then finding ways to defend them. I am particularly interested in areas like network security, phishing detection, system vulnerabilities, and secure application design. My goal is to continue developing projects that not only solve problems but also strengthen digital safety.
+<p align="center">
+  <a href="https://github.com/Thaneswaren"><img src="https://komarev.com/ghpvc/?username=Thaneswaren&style=for-the-badge" alt="profile views"></a>
+  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-2c2c2c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-🌱 Growth Mindset
-I believe in continuous learning and enjoy taking on challenges that push me outside my comfort zone. I’m always looking for opportunities to collaborate on open-source projects, contribute to security-focused tools, and expand my portfolio with real-world applications.
+---
 
-🚀 Career Goals
-In the next few years, I see myself working as a System Analyst or Software Engineer, and eventually specializing in Cybersecurity Engineering. I want to use my skills to protect organizations from cyber threats while designing innovative solutions that make technology safer for everyone.
+### 👋 About Me
+I’m **Thaneswaren**, a passionate learner and aspiring **Cybersecurity Specialist & Software Developer**.  
+Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a **Diploma in Software Engineering**. I love building secure, efficient systems—and breaking them (ethically) to understand how to defend them.
+
+---
+
+### 💻 Technical Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1f425f?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6f00?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+</p>
+
+---
+
+### 🔒 Cybersecurity Passion
+- Network security, phishing detection, system vulnerabilities, secure application design  
+- I enjoy creating labs, writing CTF/attack–defense write-ups, and automating small blue/red-team helpers.
+
+---
+
+### 🌱 Growth Mindset
+- Continuous learning, collaboration on open-source, and building real-world projects.  
+- Always shipping: code, docs, and small demos.
+
+---
+
+### 🚀 Career Goals
+- Short term: **System Analyst / Software Engineer**  
+- Long term: **Cybersecurity Engineering** — protecting organizations while building safer tech.
+
+---
+
+### 📌 Featured Projects
+<!-- Replace repo links with your actual repos -->
+<p align="left">
+  <a href="https://github.com/Thaneswaren/restaurant-system-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=restaurant-system-py&theme=default" /></a>
+  <a href="https://github.com/Thaneswaren/java-revenue-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=java-revenue-dashboard&theme=default" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thaneswaren&show_icons=true&hide_border=true" alt="stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaneswaren&hide_border=true" alt="streak"/>
+</p>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaneswaren&layout=compact&hide_border=true" alt="top langs"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thaneswaren/Thaneswaren/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 🧰 Toolbox (Expanded)
+<details>
+  <summary>Click to expand</summary>
+
+- **Programming:** Python, Java, C++, R  
+- **Web:** HTML, CSS  
+- **Data:** MySQL, SQL design & queries  
+- **Security:** Packet Tracer, Wireshark, Burp Suite  
+- **Other:** Git/GitHub, Linux basics, System testing & documentation
+</details>
+
+---
+
+### 🤝 Let’s Connect
+- 💼 Open to internships, projects, and collaborations  
+- 📫 Reach me on **LinkedIn** or **Email** above

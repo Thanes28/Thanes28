@@ -56,22 +56,30 @@ Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a 
 ---
 
 ### 📌 Featured Projects
-<!-- Replace repo links with your actual repos -->
+
 <p align="left">
-  <a href="https://github.com/Thanes28/Email_Server_Linux.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=restaurant-system-py&theme=default" /></a>
-  <a href="https://github.com/Thaneswaren/java-revenue-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thaneswaren&repo=java-revenue-dashboard&theme=default" /></a>
+  <a href="https://github.com/Thanes28/ATM_System_Assembly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanes28&repo=ATM_System_Assembly&theme=default" />
+  </a>
+  <a href="https://github.com/Thanes28/Email_Server_Linux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanes28&repo=Email_Server_Linux&theme=default" />
+  </a>
 </p>
+
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thaneswaren&show_icons=true&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaneswaren&hide_border=true" alt="streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thanes28&show_icons=true&hide_border=true" alt="stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=Thanes28&hide_border=true" alt="streak"/>
 </p>
+
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaneswaren&layout=compact&hide_border=true" alt="top langs"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanes28&layout=compact&hide_border=true" alt="top langs"/>
 </p>
+
 
 ---
 

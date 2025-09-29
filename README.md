@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Thaneswaren;Cybersecurity+%26+Software+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&center=true&vCenter=true&multiline=true&width=950&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Thaneswaren;Cybersecurity+%26+Software+Development+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440" alt="coding animation">
@@ -85,7 +86,7 @@ Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a 
 
 ### 🐍 Contribution Graph (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thaneswaren/Thaneswaren/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+ <img src="https://raw.githubusercontent.com/Thanes28/Thanes28/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---

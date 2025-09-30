@@ -106,7 +106,7 @@ Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a 
 
 - 🖥️ **Red Hat System Administration II (RH134-RHA, Ver.9.3)**  
 
-- 🤖 **AI-Powered Shopping Ads Certification** *(Duplicate entry removed if intentional, keep if two versions exist)*  
+- 🤖 **AI-Powered Shopping Ads Certification**  
   *Certificate ID:* 271640949  
 
 - 🛡️ **Cybersecurity Fundamentals for Aspiring Security Professionals**  

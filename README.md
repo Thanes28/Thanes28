@@ -81,26 +81,51 @@ Currently pursuing my **Bachelors in Cybersecurity at APU**, after completing a 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanes28&layout=compact&hide_border=true" alt="top langs"/>
 </p>
 
-
 ---
 
-### 🐍 Contribution Graph (Animated)
-<p align="center">
- <img src="https://raw.githubusercontent.com/Thanes28/Thanes28/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+### 🏆 Achievements & Certifications
+
+<p align="left">
+  
+- 📊 **Google Analytics Certification**  
+  *Certificate ID:* 189502069  
+
+- 🐍 **Python Project for Beginners**  
+  [View Certificate](https://olympus.mygreatlearning.com/courses/4936)  
+
+- 🕵️ **Introduction to Ethical Hacking**  
+  [View Certificate](https://olympus.mygreatlearning.com/courses/12629)  
+
+- 🔐 **Cybersecurity Administration** – Cisco  
+  [Credly](https://info.credly.com/)  
+
+- 🤖 **AI-Powered Shopping Ads Certification**  
+  *Certificate ID:* 271640949  
+
+- 🖥️ **Red Hat System Administration I (RH124)**  
+
+- 🖥️ **Red Hat System Administration II (RH134-RHA, Ver.9.3)**  
+
+- 🤖 **AI-Powered Shopping Ads Certification** *(Duplicate entry removed if intentional, keep if two versions exist)*  
+  *Certificate ID:* 271640949  
+
+- 🛡️ **Cybersecurity Fundamentals for Aspiring Security Professionals**  
+  *Certificate ID:* 165820  
+
+- 🛡️ **Cisco Ethical Hacking**  
+  [View Certificate](https://www.credly.com/badges/aeb92f57-cf6c-41ba-b5e7-2a7e20d26d7a)  
+
 </p>
 
 ---
 
-### 🧰 Toolbox (Expanded)
-<details>
-  <summary>Click to expand</summary>
+### 🎓 Education
 
-- **Programming:** Python, Java, C++, R  
-- **Web:** HTML, CSS  
-- **Data:** MySQL, SQL design & queries  
-- **Security:** Packet Tracer, Wireshark, Burp Suite  
-- **Other:** Git/GitHub, Linux basics, System testing & documentation
-</details>
+- 🎓 **Diploma in Information Technology**  
+  *Specialism: Software Engineering*  
+
+- 🎓 **Bachelor of Computer Science** *(Ongoing)*  
+  *Specialism: Cybersecurity*  
 
 ---
 
